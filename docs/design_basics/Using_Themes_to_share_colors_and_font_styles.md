@@ -137,3 +137,5 @@ class MyHomePage extends StatelessWidget {
   }
 }
 ```
+
+![效果图](https://flutter.io/images/cookbook/themes.png)
