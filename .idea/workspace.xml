@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c07d0251-f3ab-489a-8ae8-deed77497012" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" afterPath="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
-      <change beforePath="$PROJECT_DIR$/docs/design_basics/Displaying_SnackBars.md" afterPath="$PROJECT_DIR$/docs/design_basics/Displaying_SnackBars.md" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" afterPath="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" />
-      <change beforePath="$PROJECT_DIR$/docs/design_basics/Using_Themes_to_share_colors_and_font_styles.md" afterPath="$PROJECT_DIR$/docs/design_basics/Using_Themes_to_share_colors_and_font_styles.md" />
       <change beforePath="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" afterPath="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" />
       <change beforePath="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" afterPath="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" />
     </list>
@@ -19,66 +17,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Working_with_Tabs.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md">
+      <file leaf-file-name="Add_a_Drawer_to_a_screen.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="384">
-                <caret line="103" column="51" lean-forward="true" selection-start-line="103" selection-start-column="51" selection-end-line="103" selection-end-column="51" />
-                <folding>
-                  <marker date="1522309453143" expanded="true" signature="1876:2692" ph="{...}" />
-                  <marker date="1522309453143" expanded="true" signature="1926:2690" ph="{...}" />
-                  <marker date="1522309453143" expanded="true" signature="1954:2685" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2023:2679" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2071:2671" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2101:2435" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2130:2143" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2175:2423" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2222:2260" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2237:2259" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2285:2327" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2300:2326" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2352:2391" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2367:2390" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2467:2661" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2515:2537" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2561:2587" ph="(...)" />
-                  <marker date="1522309453143" expanded="true" signature="2611:2634" ph="(...)" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Displaying_SnackBars.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/design_basics/Displaying_SnackBars.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-1086">
-                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-                <folding>
-                  <marker date="1522306005015" expanded="true" signature="830:869" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="848:868" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="871:903" ph="//..." />
-                  <marker date="1522306005015" expanded="true" signature="1120:1259" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1141:1161" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1191:1256" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1409:1682" ph="{...}" />
-                  <marker date="1522306005015" expanded="true" signature="1459:1680" ph="{...}" />
-                  <marker date="1522306005015" expanded="true" signature="1487:1675" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1543:1668" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1571:1625" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1598:1615" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1727:2248" ph="{...}" />
-                  <marker date="1522306005015" expanded="true" signature="1777:2246" ph="{...}" />
-                  <marker date="1522306005015" expanded="true" signature="1800:2241" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1831:2234" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1895:2117" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1926:1946" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="1986:2104" ph="(...)" />
-                  <marker date="1522306005015" expanded="true" signature="2208:2225" ph="(...)" />
-                </folding>
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -100,10 +45,11 @@
       <list>
         <option value="$PROJECT_DIR$/docs/design_basics/Using_Themes_to_share_colors_and_font_styles.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Displaying_SnackBars.md" />
-        <option value="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" />
-        <option value="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" />
+        <option value="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" />
       </list>
     </option>
   </component>
@@ -165,7 +111,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -275,12 +221,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522220234132</updated>
-      <workItem from="1522220236438" duration="10658000" />
+      <workItem from="1522220236438" duration="16952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10658000" />
+    <option name="totallyTimeSpent" value="16952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -298,7 +244,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15859374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -356,50 +302,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/design_basics/Displaying_SnackBars.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -432,31 +334,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="384">
-            <caret line="103" column="51" lean-forward="true" selection-start-line="103" selection-start-column="51" selection-end-line="103" selection-end-column="51" />
+          <first_editor relative-caret-position="140">
+            <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             <folding>
-              <marker date="1522309453143" expanded="true" signature="1876:2692" ph="{...}" />
-              <marker date="1522309453143" expanded="true" signature="1926:2690" ph="{...}" />
-              <marker date="1522309453143" expanded="true" signature="1954:2685" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2023:2679" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2071:2671" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2101:2435" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2130:2143" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2175:2423" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2222:2260" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2237:2259" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2285:2327" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2300:2326" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2352:2391" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2367:2390" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2467:2661" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2515:2537" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2561:2587" ph="(...)" />
-              <marker date="1522309453143" expanded="true" signature="2611:2634" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="1874:2690" ph="{...}" />
+              <marker date="1522309683839" expanded="true" signature="1924:2688" ph="{...}" />
+              <marker date="1522309683839" expanded="true" signature="1952:2683" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2021:2677" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2069:2669" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2099:2433" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2128:2141" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2173:2421" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2220:2258" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2235:2257" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2283:2325" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2298:2324" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2350:2389" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2365:2388" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2465:2659" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2513:2535" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2559:2585" ph="(...)" />
+              <marker date="1522309683839" expanded="true" signature="2609:2632" ph="(...)" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="344">
+            <caret line="135" column="60" lean-forward="true" selection-start-line="135" selection-start-column="60" selection-end-line="135" selection-end-column="60" />
+            <folding>
+              <marker date="1522376504430" expanded="true" signature="1963:2115" ph="{...}" />
+              <marker date="1522376504430" expanded="true" signature="2013:2113" ph="{...}" />
+              <marker date="1522376504430" expanded="true" signature="2041:2108" ph="(...)" />
+              <marker date="1522376504430" expanded="true" signature="2158:2565" ph="{...}" />
+              <marker date="1522376504430" expanded="true" signature="2208:2563" ph="{...}" />
+              <marker date="1522376504430" expanded="true" signature="2233:2558" ph="(...)" />
+              <marker date="1522376504430" expanded="true" signature="2259:2309" ph="(...)" />
+              <marker date="1522376504430" expanded="true" signature="2284:2301" ph="(...)" />
+              <marker date="1522376504430" expanded="true" signature="2333:2552" ph="(...)" />
+              <marker date="1522376504430" expanded="true" signature="2358:2544" ph="(...)" />
+              <marker date="1522376504430" expanded="true" signature="2451:2534" ph="(...)" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="157">
+            <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="69" />
+            <folding>
+              <marker date="1522313736970" expanded="true" signature="3436:3664" ph="{...}" />
+              <marker date="1522313736970" expanded="true" signature="3487:3662" ph="{...}" />
+              <marker date="1522313736970" expanded="true" signature="3515:3657" ph="(...)" />
+              <marker date="1522313736970" expanded="true" signature="3597:3620" ph="(...)" />
+              <marker date="1522313736970" expanded="true" signature="3707:4080" ph="{...}" />
+              <marker date="1522313736970" expanded="true" signature="3758:4078" ph="{...}" />
+              <marker date="1522313736970" expanded="true" signature="3783:4073" ph="(...)" />
+              <marker date="1522313736970" expanded="true" signature="3840:3873" ph="(...)" />
+              <marker date="1522313736970" expanded="true" signature="3856:3872" ph="(...)" />
+              <marker date="1522313736970" expanded="true" signature="3897:4066" ph="(...)" />
+              <marker date="1522313736970" expanded="true" signature="3956:4057" ph="(...)" />
+              <marker date="1522313736970" expanded="true" signature="4020:4046" ph="(...)" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

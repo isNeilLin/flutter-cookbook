@@ -3,7 +3,7 @@
 
 这本书包含了一些技巧，演示了如何在编写`flutter`应用程序的同时，解决一些常见的问题。每一篇都是独立的，可以用作参考，帮助你您构建应用程序。
 
-## Design basics 基础设计
+## Design basics 设计基础
 
 - [使用Themes共享颜色和字体样式](https://github.com/isNeilLin/flutter-cookbook/blob/master/docs/design_basics/Using_Themes_to_share_colors_and_font_styles.md)
 - [显示SnackBar](https://github.com/isNeilLin/flutter-cookbook/blob/master/docs/design_basics/Displaying_SnackBars.md)

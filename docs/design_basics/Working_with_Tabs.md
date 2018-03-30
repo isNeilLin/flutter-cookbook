@@ -1,6 +1,6 @@
 # 使用Tabs
 
-使用选项卡是应用程序中遵循Material Design设计准则的常见模式。Flutter包括一种方便的方法来创建tab布局作为库的[Material库](https://docs.flutter.io/flutter/material/material-library.html)的一部分。
+使用选项卡是应用程序中遵循Material Design设计准则的常见模式。Flutter包括一种方便的方法来创建tab布局作为[Material库](https://docs.flutter.io/flutter/material/material-library.html)的一部分。
 
 ## 指南
 
