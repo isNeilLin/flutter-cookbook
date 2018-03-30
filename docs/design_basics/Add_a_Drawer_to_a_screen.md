@@ -58,14 +58,14 @@ new Scaffold(
             color: Colors.blue    
           ),
         ),
-        new ListTitle(
+        new ListTile(
           title: new Text('Item 1'),
           onTap: (){
             // 更新state
             // ...
           }
         ),
-        new ListTitle(
+        new ListTile(
           title: new Text('Item 2'),
           onTap: (){
             // 更新state
@@ -85,7 +85,7 @@ new Scaffold(
 当用户打开Drawer时，Flutter会将添加Drawer到navigation堆栈中。因此，要关闭Drawer，我们可以调用`navigator.pop(context)`。
 
 ```dart
-new ListTitle(
+new ListTile(
   title: new Text('Item 1'),
   onTap: (){
     // 更新state
@@ -139,7 +139,7 @@ class MyHomePage extends StatelessWidget {
                   color: Colors.blue
                 )
              ),
-             new ListTitle(
+             new ListTile(
                 title: new Text('Item 1'),
                 onTap: (){
                   // 更新state
@@ -147,7 +147,7 @@ class MyHomePage extends StatelessWidget {
                   Navigator.pop(context);               
                 }
              ),
-             new ListTitle(
+             new ListTile(
                 title: new Text('Item 2'),
                 onTap: (){
                   // 更新state

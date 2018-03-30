@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c07d0251-f3ab-489a-8ae8-deed77497012" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" afterPath="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Create_a_basic_list.md" afterPath="$PROJECT_DIR$/docs/lists/Create_a_basic_list.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" afterPath="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" afterPath="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" afterPath="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,24 +17,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Working_with_cached_images.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/images/Working_with_cached_images.md">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Working_with_long_lists.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/lists/Working_with_long_lists.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="278">
-                <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <first_editor relative-caret-position="60">
+                <caret line="2" column="109" lean-forward="false" selection-start-line="2" selection-start-column="109" selection-end-line="2" selection-end-column="201" />
                 <folding>
-                  <marker date="1522397734265" expanded="true" signature="644:741" ph="..." />
-                  <marker date="1522397734265" expanded="true" signature="755:781" ph="{...}" />
-                  <marker date="1522397734265" expanded="true" signature="819:1366" ph="{...}" />
-                  <marker date="1522397734265" expanded="true" signature="870:1364" ph="{...}" />
-                  <marker date="1522397734265" expanded="true" signature="934:1359" ph="(...)" />
-                  <marker date="1522397734265" expanded="true" signature="980:1352" ph="(...)" />
-                  <marker date="1522397734265" expanded="true" signature="1008:1053" ph="(...)" />
-                  <marker date="1522397734265" expanded="true" signature="1035:1042" ph="(...)" />
-                  <marker date="1522397734265" expanded="true" signature="1079:1343" ph="(...)" />
-                  <marker date="1522397734265" expanded="true" signature="1120:1332" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="514:522" ph="&lt;~&gt;" />
+                  <marker date="1522400710125" expanded="true" signature="531:556" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="867:941" ph="..." />
+                  <marker date="1522400710125" expanded="true" signature="955:1046" ph="{...}" />
+                  <marker date="1522400710125" expanded="true" signature="975:1042" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="996:1004" ph="&lt;~&gt;" />
+                  <marker date="1522400710125" expanded="true" signature="1013:1038" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="1084:1649" ph="{...}" />
+                  <marker date="1522400710125" expanded="true" signature="1219:1647" ph="{...}" />
+                  <marker date="1522400710125" expanded="true" signature="1219:1649" ph="{...}" />
+                  <marker date="1522400710125" expanded="true" signature="1278:1642" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="1324:1636" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="1352:1396" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="1379:1386" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="1432:1628" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="1541:1605" ph="(...)" />
+                  <marker date="1522400710125" expanded="true" signature="1572:1591" ph="(...)" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -38,40 +49,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fade_in_images_with_a_placeholder.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md">
+      <file leaf-file-name="Creating_lists_with_different_types_of_items.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="363">
-                <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+              <first_editor relative-caret-position="119">
+                <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
                 <folding>
-                  <marker date="1522397109857" expanded="true" signature="654:744" ph="..." />
-                  <marker date="1522397109857" expanded="true" signature="654:745" ph="..." />
-                  <marker date="1522397109857" expanded="true" signature="820:1530" ph="{...}" />
-                  <marker date="1522397109857" expanded="true" signature="870:1528" ph="{...}" />
-                  <marker date="1522397109857" expanded="true" signature="939:1523" ph="(...)" />
-                  <marker date="1522397109857" expanded="true" signature="985:1517" ph="(...)" />
-                  <marker date="1522397109857" expanded="true" signature="1013:1058" ph="(...)" />
-                  <marker date="1522397109857" expanded="true" signature="1040:1047" ph="(...)" />
-                  <marker date="1522397109857" expanded="true" signature="1083:1509" ph="(...)" />
-                  <marker date="1522397109857" expanded="true" signature="1105:1113" ph="&lt;~&gt;" />
-                  <marker date="1522397109857" expanded="true" signature="1137:1205" ph="(...)" />
-                  <marker date="1522397109857" expanded="true" signature="1229:1486" ph="(...)" />
-                  <marker date="1522397109857" expanded="true" signature="1281:1472" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="411:470" ph="{...}" />
+                  <marker date="1522406702660" expanded="true" signature="532:622" ph="{...}" />
+                  <marker date="1522406702660" expanded="true" signature="743:753" ph="&lt;~&gt;" />
+                  <marker date="1522406702660" expanded="true" signature="762:885" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="1663:1737" ph="..." />
+                  <marker date="1522406702660" expanded="true" signature="1750:1950" ph="{...}" />
+                  <marker date="1522406702660" expanded="true" signature="1770:1783" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="1988:2946" ph="{...}" />
+                  <marker date="1522406702660" expanded="true" signature="2137:2944" ph="{...}" />
+                  <marker date="1522406702660" expanded="true" signature="2197:2939" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="2243:2933" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="2271:2316" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="2298:2305" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="2352:2925" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="2539:2701" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="2572:2685" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="2779:2888" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="2812:2825" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="2861:2872" ph="(...)" />
+                  <marker date="1522406702660" expanded="true" signature="3051:3110" ph="{...}" />
+                  <marker date="1522406702660" expanded="true" signature="3172:3262" ph="{...}" />
                 </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="318">
-                <caret line="26" column="79" lean-forward="false" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
-                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -96,11 +102,6 @@
         <option value="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" />
-        <option value="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
-        <option value="$PROJECT_DIR$/docs/lists/Create_a_basic_list.md" />
-        <option value="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" />
-        <option value="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" />
-        <option value="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" />
         <option value="$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md" />
         <option value="$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md" />
         <option value="$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md" />
@@ -119,6 +120,11 @@
         <option value="$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md" />
         <option value="$PROJECT_DIR$/docs/images/Working_with_cached_images.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Create_a_basic_list.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" />
       </list>
     </option>
   </component>
@@ -147,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,16 +170,15 @@
               <item name="flutter-cookbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter-cookbook" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="lists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,44 +296,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522220234132</updated>
-      <workItem from="1522220236438" duration="26113000" />
+      <workItem from="1522220236438" duration="28712000" />
+      <workItem from="1522400905250" duration="4173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26113000" />
+    <option name="totallyTimeSpent" value="32885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25721785" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,31 +348,40 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/lists/Working_with_long_lists.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1522400710125" expanded="true" signature="514:522" ph="&lt;~&gt;" />
+              <marker date="1522400710125" expanded="true" signature="531:556" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="867:941" ph="..." />
+              <marker date="1522400710125" expanded="true" signature="955:1046" ph="{...}" />
+              <marker date="1522400710125" expanded="true" signature="975:1042" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="996:1004" ph="&lt;~&gt;" />
+              <marker date="1522400710125" expanded="true" signature="1013:1038" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1084:1649" ph="{...}" />
+              <marker date="1522400710125" expanded="true" signature="1219:1647" ph="{...}" />
+              <marker date="1522400710125" expanded="true" signature="1219:1649" ph="{...}" />
+              <marker date="1522400710125" expanded="true" signature="1278:1642" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1324:1636" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1352:1396" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1379:1386" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1432:1628" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1541:1605" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1572:1591" ph="(...)" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/design_basics/Using_Themes_to_share_colors_and_font_styles.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2800">
             <caret line="140" column="5" lean-forward="false" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
-            <folding>
-              <marker date="1522300973929" expanded="true" signature="1860:1934" ph="..." />
-              <marker date="1522300973929" expanded="true" signature="1947:1973" ph="{...}" />
-              <marker date="1522300973929" expanded="true" signature="2011:2380" ph="{...}" />
-              <marker date="1522300973929" expanded="true" signature="2061:2378" ph="{...}" />
-              <marker date="1522300973929" expanded="true" signature="2125:2373" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="2175:2305" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="2333:2366" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="2423:3166" ph="{...}" />
-              <marker date="1522300973929" expanded="true" signature="2564:3164" ph="{...}" />
-              <marker date="1522300973929" expanded="true" signature="2589:3159" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="2615:2657" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="2641:2648" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="2681:2917" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="2711:2908" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="2786:2897" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="2956:3152" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="3067:3143" ph="(...)" />
-              <marker date="1522300973929" expanded="true" signature="3121:3132" ph="(...)" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -376,28 +392,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-1086">
             <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-            <folding>
-              <marker date="1522306005015" expanded="true" signature="830:869" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="848:868" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="871:903" ph="//..." />
-              <marker date="1522306005015" expanded="true" signature="1120:1259" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1141:1161" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1191:1256" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1409:1682" ph="{...}" />
-              <marker date="1522306005015" expanded="true" signature="1459:1680" ph="{...}" />
-              <marker date="1522306005015" expanded="true" signature="1487:1675" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1543:1668" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1571:1625" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1598:1615" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1727:2248" ph="{...}" />
-              <marker date="1522306005015" expanded="true" signature="1777:2246" ph="{...}" />
-              <marker date="1522306005015" expanded="true" signature="1800:2241" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1831:2234" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1895:2117" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1926:1946" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="1986:2104" ph="(...)" />
-              <marker date="1522306005015" expanded="true" signature="2208:2225" ph="(...)" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -408,26 +402,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="140">
             <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            <folding>
-              <marker date="1522309683839" expanded="true" signature="1874:2690" ph="{...}" />
-              <marker date="1522309683839" expanded="true" signature="1924:2688" ph="{...}" />
-              <marker date="1522309683839" expanded="true" signature="1952:2683" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2021:2677" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2069:2669" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2099:2433" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2128:2141" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2173:2421" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2220:2258" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2235:2257" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2283:2325" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2298:2324" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2350:2389" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2365:2388" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2465:2659" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2513:2535" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2559:2585" ph="(...)" />
-              <marker date="1522309683839" expanded="true" signature="2609:2632" ph="(...)" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -438,19 +412,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="344">
             <caret line="135" column="60" lean-forward="true" selection-start-line="135" selection-start-column="60" selection-end-line="135" selection-end-column="60" />
-            <folding>
-              <marker date="1522376504430" expanded="true" signature="1963:2115" ph="{...}" />
-              <marker date="1522376504430" expanded="true" signature="2013:2113" ph="{...}" />
-              <marker date="1522376504430" expanded="true" signature="2041:2108" ph="(...)" />
-              <marker date="1522376504430" expanded="true" signature="2158:2565" ph="{...}" />
-              <marker date="1522376504430" expanded="true" signature="2208:2563" ph="{...}" />
-              <marker date="1522376504430" expanded="true" signature="2233:2558" ph="(...)" />
-              <marker date="1522376504430" expanded="true" signature="2259:2309" ph="(...)" />
-              <marker date="1522376504430" expanded="true" signature="2284:2301" ph="(...)" />
-              <marker date="1522376504430" expanded="true" signature="2333:2552" ph="(...)" />
-              <marker date="1522376504430" expanded="true" signature="2358:2544" ph="(...)" />
-              <marker date="1522376504430" expanded="true" signature="2451:2534" ph="(...)" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -461,108 +422,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="157">
             <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="69" />
-            <folding>
-              <marker date="1522313736970" expanded="true" signature="3436:3664" ph="{...}" />
-              <marker date="1522313736970" expanded="true" signature="3487:3662" ph="{...}" />
-              <marker date="1522313736970" expanded="true" signature="3515:3657" ph="(...)" />
-              <marker date="1522313736970" expanded="true" signature="3597:3620" ph="(...)" />
-              <marker date="1522313736970" expanded="true" signature="3707:4080" ph="{...}" />
-              <marker date="1522313736970" expanded="true" signature="3758:4078" ph="{...}" />
-              <marker date="1522313736970" expanded="true" signature="3783:4073" ph="(...)" />
-              <marker date="1522313736970" expanded="true" signature="3840:3873" ph="(...)" />
-              <marker date="1522313736970" expanded="true" signature="3856:3872" ph="(...)" />
-              <marker date="1522313736970" expanded="true" signature="3897:4066" ph="(...)" />
-              <marker date="1522313736970" expanded="true" signature="3956:4057" ph="(...)" />
-              <marker date="1522313736970" expanded="true" signature="4020:4046" ph="(...)" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1000">
-            <caret line="150" column="39" lean-forward="false" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="39" />
-            <folding>
-              <marker date="1522388359977" expanded="true" signature="1908:1937" ph="//..." />
-              <marker date="1522388359977" expanded="true" signature="2054:2083" ph="//..." />
-              <marker date="1522388359977" expanded="true" signature="2429:2455" ph="//..." />
-              <marker date="1522388359977" expanded="true" signature="2626:2820" ph="{...}" />
-              <marker date="1522388359977" expanded="true" signature="2710:2818" ph="{...}" />
-              <marker date="1522388359977" expanded="true" signature="2738:2813" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="2789:2806" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="2863:4119" ph="{...}" />
-              <marker date="1522388359977" expanded="true" signature="2997:4117" ph="{...}" />
-              <marker date="1522388359977" expanded="true" signature="2997:4119" ph="{...}" />
-              <marker date="1522388359977" expanded="true" signature="3022:4106" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3022:4112" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3048:3089" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3073:3080" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3113:3158" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3138:3150" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3184:4106" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3260:4097" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3358:3366" ph="&lt;~&gt;" />
-              <marker date="1522388359977" expanded="true" signature="3397:3565" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3430:3447" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3494:3550" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3593:3813" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3593:4097" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3626:3636" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3683:3717" ph="//..." />
-              <marker date="1522388359977" expanded="true" signature="3683:3723" ph="//..." />
-              <marker date="1522388359977" expanded="true" signature="3683:3780" ph="//..." />
-              <marker date="1522388359977" expanded="true" signature="3683:3798" ph="//..." />
-              <marker date="1522388359977" expanded="true" signature="3841:4074" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3874:3884" ph="(...)" />
-              <marker date="1522388359977" expanded="true" signature="3931:3971" ph="//..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/lists/Create_a_basic_list.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/lists/Working_with_long_lists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -573,7 +432,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -584,7 +442,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -595,7 +452,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -606,7 +462,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -617,7 +472,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -628,7 +482,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -639,7 +492,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -650,7 +502,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -661,7 +512,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -672,7 +522,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -683,7 +532,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -694,7 +542,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -705,7 +552,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -716,7 +562,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -727,62 +572,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="264">
             <caret line="46" column="112" lean-forward="false" selection-start-line="46" selection-start-column="112" selection-end-line="46" selection-end-column="112" />
-            <folding>
-              <marker date="1522394260759" expanded="true" signature="1003:1391" ph="{...}" />
-              <marker date="1522394260759" expanded="true" signature="1053:1389" ph="{...}" />
-              <marker date="1522394260759" expanded="true" signature="1081:1384" ph="(...)" />
-              <marker date="1522394260759" expanded="true" signature="1134:1378" ph="(...)" />
-              <marker date="1522394260759" expanded="true" signature="1162:1213" ph="(...)" />
-              <marker date="1522394260759" expanded="true" signature="1189:1203" ph="(...)" />
-              <marker date="1522394260759" expanded="true" signature="1246:1370" ph="(...)" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/images/Working_with_cached_images.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="278">
-            <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-            <folding>
-              <marker date="1522397734265" expanded="true" signature="644:741" ph="..." />
-              <marker date="1522397734265" expanded="true" signature="755:781" ph="{...}" />
-              <marker date="1522397734265" expanded="true" signature="819:1366" ph="{...}" />
-              <marker date="1522397734265" expanded="true" signature="870:1364" ph="{...}" />
-              <marker date="1522397734265" expanded="true" signature="934:1359" ph="(...)" />
-              <marker date="1522397734265" expanded="true" signature="980:1352" ph="(...)" />
-              <marker date="1522397734265" expanded="true" signature="1008:1053" ph="(...)" />
-              <marker date="1522397734265" expanded="true" signature="1035:1042" ph="(...)" />
-              <marker date="1522397734265" expanded="true" signature="1079:1343" ph="(...)" />
-              <marker date="1522397734265" expanded="true" signature="1120:1332" ph="(...)" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="363">
-            <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-            <folding>
-              <marker date="1522397109857" expanded="true" signature="654:744" ph="..." />
-              <marker date="1522397109857" expanded="true" signature="654:745" ph="..." />
-              <marker date="1522397109857" expanded="true" signature="820:1530" ph="{...}" />
-              <marker date="1522397109857" expanded="true" signature="870:1528" ph="{...}" />
-              <marker date="1522397109857" expanded="true" signature="939:1523" ph="(...)" />
-              <marker date="1522397109857" expanded="true" signature="985:1517" ph="(...)" />
-              <marker date="1522397109857" expanded="true" signature="1013:1058" ph="(...)" />
-              <marker date="1522397109857" expanded="true" signature="1040:1047" ph="(...)" />
-              <marker date="1522397109857" expanded="true" signature="1083:1509" ph="(...)" />
-              <marker date="1522397109857" expanded="true" signature="1105:1113" ph="&lt;~&gt;" />
-              <marker date="1522397109857" expanded="true" signature="1137:1205" ph="(...)" />
-              <marker date="1522397109857" expanded="true" signature="1229:1486" ph="(...)" />
-              <marker date="1522397109857" expanded="true" signature="1281:1472" ph="(...)" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -793,7 +582,135 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="318">
             <caret line="26" column="79" lean-forward="false" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
-            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="363">
+            <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/images/Working_with_cached_images.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="278">
+            <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1400">
+            <caret line="60" column="18" lean-forward="false" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Create_a_basic_list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-580">
+            <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="105" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="25">
+            <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="85" selection-end-column="62" />
+            <folding>
+              <marker date="1522399087745" expanded="true" signature="768:1853" ph="{...}" />
+              <marker date="1522399087745" expanded="true" signature="819:1851" ph="{...}" />
+              <marker date="1522399087745" expanded="true" signature="885:1846" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="931:1839" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="959:1004" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="986:993" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="1033:1830" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="1077:1093" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="1149:1819" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="1219:1227" ph="&lt;~&gt;" />
+              <marker date="1522399087745" expanded="true" signature="1256:1338" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="1367:1450" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="1479:1563" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="1592:1677" ph="(...)" />
+              <marker date="1522399087745" expanded="true" signature="1706:1791" ph="(...)" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Working_with_long_lists.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="2" column="109" lean-forward="false" selection-start-line="2" selection-start-column="109" selection-end-line="2" selection-end-column="201" />
+            <folding>
+              <marker date="1522400710125" expanded="true" signature="514:522" ph="&lt;~&gt;" />
+              <marker date="1522400710125" expanded="true" signature="531:556" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="867:941" ph="..." />
+              <marker date="1522400710125" expanded="true" signature="955:1046" ph="{...}" />
+              <marker date="1522400710125" expanded="true" signature="975:1042" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="996:1004" ph="&lt;~&gt;" />
+              <marker date="1522400710125" expanded="true" signature="1013:1038" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1084:1649" ph="{...}" />
+              <marker date="1522400710125" expanded="true" signature="1219:1647" ph="{...}" />
+              <marker date="1522400710125" expanded="true" signature="1219:1649" ph="{...}" />
+              <marker date="1522400710125" expanded="true" signature="1278:1642" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1324:1636" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1352:1396" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1379:1386" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1432:1628" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1541:1605" ph="(...)" />
+              <marker date="1522400710125" expanded="true" signature="1572:1591" ph="(...)" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="119">
+            <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+            <folding>
+              <marker date="1522406702660" expanded="true" signature="411:470" ph="{...}" />
+              <marker date="1522406702660" expanded="true" signature="532:622" ph="{...}" />
+              <marker date="1522406702660" expanded="true" signature="743:753" ph="&lt;~&gt;" />
+              <marker date="1522406702660" expanded="true" signature="762:885" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="1663:1737" ph="..." />
+              <marker date="1522406702660" expanded="true" signature="1750:1950" ph="{...}" />
+              <marker date="1522406702660" expanded="true" signature="1770:1783" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="1988:2946" ph="{...}" />
+              <marker date="1522406702660" expanded="true" signature="2137:2944" ph="{...}" />
+              <marker date="1522406702660" expanded="true" signature="2197:2939" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="2243:2933" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="2271:2316" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="2298:2305" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="2352:2925" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="2539:2701" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="2572:2685" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="2779:2888" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="2812:2825" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="2861:2872" ph="(...)" />
+              <marker date="1522406702660" expanded="true" signature="3051:3110" ph="{...}" />
+              <marker date="1522406702660" expanded="true" signature="3172:3262" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
