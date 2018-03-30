@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c07d0251-f3ab-489a-8ae8-deed77497012" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/images/Display_images_from_the_internet.md" afterPath="$PROJECT_DIR$/docs/images/Display_images_from_the_internet.md" />
-      <change beforePath="$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md" afterPath="$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md" />
-      <change beforePath="$PROJECT_DIR$/docs/images/Working_with_cached_images.md" afterPath="$PROJECT_DIR$/docs/images/Working_with_cached_images.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fade_in_images_with_a_placeholder.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Fade_in_images_with_a_placeholder.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -66,6 +65,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="318">
+                <caret line="26" column="79" lean-forward="false" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -82,7 +94,6 @@
         <option value="$PROJECT_DIR$/docs/design_basics/Using_Themes_to_share_colors_and_font_styles.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Displaying_SnackBars.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
@@ -107,6 +118,7 @@
         <option value="$PROJECT_DIR$/docs/images/Display_images_from_the_internet.md" />
         <option value="$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md" />
         <option value="$PROJECT_DIR$/docs/images/Working_with_cached_images.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -278,12 +290,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522220234132</updated>
-      <workItem from="1522220236438" duration="25854000" />
+      <workItem from="1522220236438" duration="26113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25854000" />
+    <option name="totallyTimeSpent" value="26113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -729,17 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="112" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/images/Working_with_cached_images.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -782,6 +783,17 @@
               <marker date="1522397109857" expanded="true" signature="1229:1486" ph="(...)" />
               <marker date="1522397109857" expanded="true" signature="1281:1472" ph="(...)" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="318">
+            <caret line="26" column="79" lean-forward="false" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

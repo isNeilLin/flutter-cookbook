@@ -21,10 +21,10 @@
 ## Lists 列表
 
 - [创建基础列表](https://github.com/isNeilLin/flutter-cookbook/blob/master/docs/lists/Create_a_basic_list.md)
-- [创建水平列表](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/images/Make_a_horizontal_list.md)
-- [处理长列表](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/images/Working_with_long_lists.md)
-- [创建具有不同类型项的列表](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/images/Creating_lists_with_different_types_of_items.md)
-- [创建网格列表](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/images/Creating_a_grid_List.md)
+- [创建水平列表](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/lists/Make_a_horizontal_list.md)
+- [处理长列表](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/lists/Working_with_long_lists.md)
+- [创建具有不同类型项的列表](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/lists/Creating_lists_with_different_types_of_items.md)
+- [创建网格列表](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/lists/Creating_a_grid_List.md)
 
 ## Handling Gestures 处理手势
 
