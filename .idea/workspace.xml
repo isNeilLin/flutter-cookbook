@@ -3,10 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="c07d0251-f3ab-489a-8ae8-deed77497012" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" afterPath="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" />
-      <change beforePath="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" afterPath="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" />
-      <change beforePath="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" afterPath="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" />
+      <change beforePath="$PROJECT_DIR$/docs/animation/Fade_a_Widget_in_and_out.md" afterPath="$PROJECT_DIR$/docs/animation/Fade_a_Widget_in_and_out.md" />
+      <change beforePath="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" afterPath="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
+      <change beforePath="$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md" afterPath="$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md" />
+      <change beforePath="$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md" afterPath="$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md" />
+      <change beforePath="$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md" afterPath="$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md" />
+      <change beforePath="$PROJECT_DIR$/docs/images/Display_images_from_the_internet.md" afterPath="$PROJECT_DIR$/docs/images/Display_images_from_the_internet.md" />
+      <change beforePath="$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md" afterPath="$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md" />
+      <change beforePath="$PROJECT_DIR$/docs/images/Working_with_cached_images.md" afterPath="$PROJECT_DIR$/docs/images/Working_with_cached_images.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Create_a_basic_list.md" afterPath="$PROJECT_DIR$/docs/lists/Create_a_basic_list.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md" afterPath="$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" afterPath="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" afterPath="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" afterPath="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" />
+      <change beforePath="$PROJECT_DIR$/docs/navigation/Animating_a_Widget_across_screens.md" afterPath="$PROJECT_DIR$/docs/navigation/Animating_a_Widget_across_screens.md" />
+      <change beforePath="$PROJECT_DIR$/docs/navigation/Navigate_to_a_new_screen_and_back.md" afterPath="$PROJECT_DIR$/docs/navigation/Navigate_to_a_new_screen_and_back.md" />
+      <change beforePath="$PROJECT_DIR$/docs/navigation/Return_data_from_a_screen.md" afterPath="$PROJECT_DIR$/docs/navigation/Return_data_from_a_screen.md" />
+      <change beforePath="$PROJECT_DIR$/docs/navigation/Send_data_to_a_new_screen.md" afterPath="$PROJECT_DIR$/docs/navigation/Send_data_to_a_new_screen.md" />
+      <change beforePath="$PROJECT_DIR$/docs/networking/Fetch_data_from_the_internet.md" afterPath="$PROJECT_DIR$/docs/networking/Fetch_data_from_the_internet.md" />
+      <change beforePath="$PROJECT_DIR$/docs/networking/Making_authenticated_requests.md" afterPath="$PROJECT_DIR$/docs/networking/Making_authenticated_requests.md" />
+      <change beforePath="$PROJECT_DIR$/docs/networking/Working_with_WebSockets.md" afterPath="$PROJECT_DIR$/docs/networking/Working_with_WebSockets.md" />
+      <change beforePath="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" afterPath="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" />
+      <change beforePath="$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md" afterPath="$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,12 +35,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Add_a_Drawer_to_a_screen.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="264">
+                <caret line="54" column="7" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reading_and_Writing_Files.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+                <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Storing_key-value_data_on_disk.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -45,11 +89,32 @@
       <list>
         <option value="$PROJECT_DIR$/docs/design_basics/Using_Themes_to_share_colors_and_font_styles.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Displaying_SnackBars.md" />
-        <option value="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" />
+        <option value="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
+        <option value="$PROJECT_DIR$/docs/images/Display_images_from_the_internet.md" />
+        <option value="$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md" />
+        <option value="$PROJECT_DIR$/docs/images/Working_with_cached_images.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Create_a_basic_list.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md" />
+        <option value="$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md" />
+        <option value="$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md" />
+        <option value="$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md" />
+        <option value="$PROJECT_DIR$/docs/navigation/Navigate_to_a_new_screen_and_back.md" />
+        <option value="$PROJECT_DIR$/docs/navigation/Send_data_to_a_new_screen.md" />
+        <option value="$PROJECT_DIR$/docs/navigation/Return_data_from_a_screen.md" />
+        <option value="$PROJECT_DIR$/docs/navigation/Animating_a_Widget_across_screens.md" />
+        <option value="$PROJECT_DIR$/docs/animation/Fade_a_Widget_in_and_out.md" />
+        <option value="$PROJECT_DIR$/docs/networking/Fetch_data_from_the_internet.md" />
+        <option value="$PROJECT_DIR$/docs/networking/Making_authenticated_requests.md" />
+        <option value="$PROJECT_DIR$/docs/networking/Working_with_WebSockets.md" />
+        <option value="$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md" />
+        <option value="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" />
       </list>
     </option>
   </component>
@@ -94,7 +159,7 @@
               <item name="flutter-cookbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter-cookbook" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="design_basics" type="462c0819:PsiDirectoryNode" />
+              <item name="persistence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,12 +286,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522220234132</updated>
-      <workItem from="1522220236438" duration="16952000" />
+      <workItem from="1522220236438" duration="21886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16952000" />
+    <option name="totallyTimeSpent" value="21886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -334,17 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -425,8 +479,283 @@
     <entry file="file://$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
+          <first_editor relative-caret-position="1000">
+            <caret line="150" column="39" lean-forward="false" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="39" />
+            <folding>
+              <marker date="1522388359977" expanded="true" signature="1908:1937" ph="//..." />
+              <marker date="1522388359977" expanded="true" signature="2054:2083" ph="//..." />
+              <marker date="1522388359977" expanded="true" signature="2429:2455" ph="//..." />
+              <marker date="1522388359977" expanded="true" signature="2626:2820" ph="{...}" />
+              <marker date="1522388359977" expanded="true" signature="2710:2818" ph="{...}" />
+              <marker date="1522388359977" expanded="true" signature="2738:2813" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="2789:2806" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="2863:4119" ph="{...}" />
+              <marker date="1522388359977" expanded="true" signature="2997:4117" ph="{...}" />
+              <marker date="1522388359977" expanded="true" signature="2997:4119" ph="{...}" />
+              <marker date="1522388359977" expanded="true" signature="3022:4106" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3022:4112" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3048:3089" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3073:3080" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3113:3158" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3138:3150" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3184:4106" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3260:4097" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3358:3366" ph="&lt;~&gt;" />
+              <marker date="1522388359977" expanded="true" signature="3397:3565" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3430:3447" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3494:3550" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3593:3813" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3593:4097" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3626:3636" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3683:3717" ph="//..." />
+              <marker date="1522388359977" expanded="true" signature="3683:3723" ph="//..." />
+              <marker date="1522388359977" expanded="true" signature="3683:3780" ph="//..." />
+              <marker date="1522388359977" expanded="true" signature="3683:3798" ph="//..." />
+              <marker date="1522388359977" expanded="true" signature="3841:4074" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3874:3884" ph="(...)" />
+              <marker date="1522388359977" expanded="true" signature="3931:3971" ph="//..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/images/Display_images_from_the_internet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/images/Working_with_cached_images.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Create_a_basic_list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Working_with_long_lists.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/navigation/Navigate_to_a_new_screen_and_back.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/navigation/Send_data_to_a_new_screen.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/navigation/Return_data_from_a_screen.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/navigation/Animating_a_Widget_across_screens.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/animation/Fade_a_Widget_in_and_out.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/networking/Fetch_data_from_the_internet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/networking/Making_authenticated_requests.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/networking/Working_with_WebSockets.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="54" column="7" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
