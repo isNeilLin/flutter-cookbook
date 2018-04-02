@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c07d0251-f3ab-489a-8ae8-deed77497012" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" afterPath="$PROJECT_DIR$/docs/design_basics/Add_a_Drawer_to_a_screen.md" />
-      <change beforePath="$PROJECT_DIR$/docs/lists/Create_a_basic_list.md" afterPath="$PROJECT_DIR$/docs/lists/Create_a_basic_list.md" />
-      <change beforePath="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" afterPath="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" />
-      <change beforePath="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" afterPath="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" />
-      <change beforePath="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" afterPath="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" />
+      <change beforePath="$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md" afterPath="$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md" />
+      <change beforePath="$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md" afterPath="$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md" />
+      <change beforePath="$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md" afterPath="$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md" />
+      <change beforePath="$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md" afterPath="$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,65 +17,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Working_with_long_lists.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/lists/Working_with_long_lists.md">
+      <file leaf-file-name="Implement_Swipe_to_Dismiss.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="60">
-                <caret line="2" column="109" lean-forward="false" selection-start-line="2" selection-start-column="109" selection-end-line="2" selection-end-column="201" />
+              <first_editor relative-caret-position="234">
+                <caret line="128" column="23" lean-forward="false" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
                 <folding>
-                  <marker date="1522400710125" expanded="true" signature="514:522" ph="&lt;~&gt;" />
-                  <marker date="1522400710125" expanded="true" signature="531:556" ph="(...)" />
-                  <marker date="1522400710125" expanded="true" signature="867:941" ph="..." />
-                  <marker date="1522400710125" expanded="true" signature="955:1046" ph="{...}" />
-                  <marker date="1522400710125" expanded="true" signature="975:1042" ph="(...)" />
-                  <marker date="1522400710125" expanded="true" signature="996:1004" ph="&lt;~&gt;" />
-                  <marker date="1522400710125" expanded="true" signature="1013:1038" ph="(...)" />
-                  <marker date="1522400710125" expanded="true" signature="1084:1649" ph="{...}" />
-                  <marker date="1522400710125" expanded="true" signature="1219:1647" ph="{...}" />
-                  <marker date="1522400710125" expanded="true" signature="1219:1649" ph="{...}" />
-                  <marker date="1522400710125" expanded="true" signature="1278:1642" ph="(...)" />
-                  <marker date="1522400710125" expanded="true" signature="1324:1636" ph="(...)" />
-                  <marker date="1522400710125" expanded="true" signature="1352:1396" ph="(...)" />
-                  <marker date="1522400710125" expanded="true" signature="1379:1386" ph="(...)" />
-                  <marker date="1522400710125" expanded="true" signature="1432:1628" ph="(...)" />
-                  <marker date="1522400710125" expanded="true" signature="1541:1605" ph="(...)" />
-                  <marker date="1522400710125" expanded="true" signature="1572:1591" ph="(...)" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Creating_lists_with_different_types_of_items.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="119">
-                <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
-                <folding>
-                  <marker date="1522406702660" expanded="true" signature="411:470" ph="{...}" />
-                  <marker date="1522406702660" expanded="true" signature="532:622" ph="{...}" />
-                  <marker date="1522406702660" expanded="true" signature="743:753" ph="&lt;~&gt;" />
-                  <marker date="1522406702660" expanded="true" signature="762:885" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="1663:1737" ph="..." />
-                  <marker date="1522406702660" expanded="true" signature="1750:1950" ph="{...}" />
-                  <marker date="1522406702660" expanded="true" signature="1770:1783" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="1988:2946" ph="{...}" />
-                  <marker date="1522406702660" expanded="true" signature="2137:2944" ph="{...}" />
-                  <marker date="1522406702660" expanded="true" signature="2197:2939" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="2243:2933" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="2271:2316" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="2298:2305" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="2352:2925" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="2539:2701" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="2572:2685" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="2779:2888" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="2812:2825" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="2861:2872" ph="(...)" />
-                  <marker date="1522406702660" expanded="true" signature="3051:3110" ph="{...}" />
-                  <marker date="1522406702660" expanded="true" signature="3172:3262" ph="{...}" />
+                  <marker date="1522654087753" expanded="true" signature="525:533" ph="&lt;~&gt;" />
+                  <marker date="1522654087753" expanded="true" signature="542:565" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="1111:1158" ph="//..." />
+                  <marker date="1522654087753" expanded="true" signature="1949:2023" ph="..." />
+                  <marker date="1522654087753" expanded="true" signature="2037:2132" ph="{...}" />
+                  <marker date="1522654087753" expanded="true" signature="2057:2128" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="2078:2086" ph="&lt;~&gt;" />
+                  <marker date="1522654087753" expanded="true" signature="2095:2123" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="2170:3265" ph="{...}" />
+                  <marker date="1522654087753" expanded="true" signature="2311:3263" ph="{...}" />
+                  <marker date="1522654087753" expanded="true" signature="2378:3258" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="2424:3251" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="2452:2497" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="2479:2486" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="2533:3242" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="2686:3218" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="2702:2729" ph="//..." />
+                  <marker date="1522654087753" expanded="true" signature="2756:2762" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="2778:2837" ph="//..." />
+                  <marker date="1522654087753" expanded="true" signature="3002:3040" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="3020:3039" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="3123:3142" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="3177:3203" ph="(...)" />
+                  <marker date="1522654087753" expanded="true" signature="3193:3202" ph="(...)" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -102,10 +73,6 @@
         <option value="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" />
-        <option value="$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md" />
-        <option value="$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md" />
-        <option value="$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md" />
-        <option value="$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md" />
         <option value="$PROJECT_DIR$/docs/navigation/Navigate_to_a_new_screen_and_back.md" />
         <option value="$PROJECT_DIR$/docs/navigation/Send_data_to_a_new_screen.md" />
         <option value="$PROJECT_DIR$/docs/navigation/Return_data_from_a_screen.md" />
@@ -125,6 +92,10 @@
         <option value="$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md" />
         <option value="$PROJECT_DIR$/docs/lists/Working_with_long_lists.md" />
         <option value="$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md" />
+        <option value="$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md" />
+        <option value="$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md" />
+        <option value="$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md" />
+        <option value="$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md" />
       </list>
     </option>
   </component>
@@ -153,6 +124,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,19 +140,10 @@
               <item name="flutter-cookbook" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="flutter-cookbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter-cookbook" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="lists" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,12 +262,13 @@
       <option name="presentableId" value="Default" />
       <updated>1522220234132</updated>
       <workItem from="1522220236438" duration="28712000" />
-      <workItem from="1522400905250" duration="4173000" />
+      <workItem from="1522400905250" duration="5689000" />
+      <workItem from="1522638877661" duration="4042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32885000" />
+    <option name="totallyTimeSpent" value="38443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -320,7 +286,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25721785" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25078124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -348,30 +314,36 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/lists/Working_with_long_lists.md">
+    <entry file="file://$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1522400710125" expanded="true" signature="514:522" ph="&lt;~&gt;" />
-              <marker date="1522400710125" expanded="true" signature="531:556" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="867:941" ph="..." />
-              <marker date="1522400710125" expanded="true" signature="955:1046" ph="{...}" />
-              <marker date="1522400710125" expanded="true" signature="975:1042" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="996:1004" ph="&lt;~&gt;" />
-              <marker date="1522400710125" expanded="true" signature="1013:1038" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1084:1649" ph="{...}" />
-              <marker date="1522400710125" expanded="true" signature="1219:1647" ph="{...}" />
-              <marker date="1522400710125" expanded="true" signature="1219:1649" ph="{...}" />
-              <marker date="1522400710125" expanded="true" signature="1278:1642" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1324:1636" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1352:1396" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1379:1386" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1432:1628" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1541:1605" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1572:1591" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="372:428" ph="//..." />
+              <marker date="1522650400363" expanded="true" signature="750:776" ph="{...}" />
+              <marker date="1522650400363" expanded="true" signature="814:1499" ph="{...}" />
+              <marker date="1522650400363" expanded="true" signature="865:1497" ph="{...}" />
+              <marker date="1522650400363" expanded="true" signature="925:1492" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="971:1485" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="999:1044" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1026:1033" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1078:1476" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1090:1153" ph="//..." />
+              <marker date="1522650400363" expanded="true" signature="1251:1465" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1296:1451" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1327:1436" ph="(...)" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Working_with_long_lists.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -422,46 +394,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="157">
             <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="69" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
@@ -577,16 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="318">
-            <caret line="26" column="79" lean-forward="false" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -627,28 +549,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md">
+    <entry file="file://$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="25">
-            <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="85" selection-end-column="62" />
-            <folding>
-              <marker date="1522399087745" expanded="true" signature="768:1853" ph="{...}" />
-              <marker date="1522399087745" expanded="true" signature="819:1851" ph="{...}" />
-              <marker date="1522399087745" expanded="true" signature="885:1846" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="931:1839" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="959:1004" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="986:993" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="1033:1830" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="1077:1093" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="1149:1819" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="1219:1227" ph="&lt;~&gt;" />
-              <marker date="1522399087745" expanded="true" signature="1256:1338" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="1367:1450" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="1479:1563" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="1592:1677" ph="(...)" />
-              <marker date="1522399087745" expanded="true" signature="1706:1791" ph="(...)" />
-            </folding>
+          <first_editor relative-caret-position="2375">
+            <caret line="153" column="3" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="153" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -659,57 +564,149 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="60">
             <caret line="2" column="109" lean-forward="false" selection-start-line="2" selection-start-column="109" selection-end-line="2" selection-end-column="201" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Make_a_horizontal_list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="85" selection-end-column="62" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lists/Creating_a_grid_List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="166">
+            <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
             <folding>
-              <marker date="1522400710125" expanded="true" signature="514:522" ph="&lt;~&gt;" />
-              <marker date="1522400710125" expanded="true" signature="531:556" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="867:941" ph="..." />
-              <marker date="1522400710125" expanded="true" signature="955:1046" ph="{...}" />
-              <marker date="1522400710125" expanded="true" signature="975:1042" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="996:1004" ph="&lt;~&gt;" />
-              <marker date="1522400710125" expanded="true" signature="1013:1038" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1084:1649" ph="{...}" />
-              <marker date="1522400710125" expanded="true" signature="1219:1647" ph="{...}" />
-              <marker date="1522400710125" expanded="true" signature="1219:1649" ph="{...}" />
-              <marker date="1522400710125" expanded="true" signature="1278:1642" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1324:1636" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1352:1396" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1379:1386" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1432:1628" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1541:1605" ph="(...)" />
-              <marker date="1522400710125" expanded="true" signature="1572:1591" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="372:428" ph="//..." />
+              <marker date="1522650400363" expanded="true" signature="750:776" ph="{...}" />
+              <marker date="1522650400363" expanded="true" signature="814:1499" ph="{...}" />
+              <marker date="1522650400363" expanded="true" signature="865:1497" ph="{...}" />
+              <marker date="1522650400363" expanded="true" signature="925:1492" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="971:1485" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="999:1044" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1026:1033" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1078:1476" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1090:1153" ph="//..." />
+              <marker date="1522650400363" expanded="true" signature="1251:1465" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1296:1451" ph="(...)" />
+              <marker date="1522650400363" expanded="true" signature="1327:1436" ph="(...)" />
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/lists/Creating_lists_with_different_types_of_items.md">
+    <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Adding_Material_Touch_ripples.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="119">
-            <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <first_editor relative-caret-position="399">
+            <caret line="80" column="54" lean-forward="true" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="54" />
             <folding>
-              <marker date="1522406702660" expanded="true" signature="411:470" ph="{...}" />
-              <marker date="1522406702660" expanded="true" signature="532:622" ph="{...}" />
-              <marker date="1522406702660" expanded="true" signature="743:753" ph="&lt;~&gt;" />
-              <marker date="1522406702660" expanded="true" signature="762:885" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="1663:1737" ph="..." />
-              <marker date="1522406702660" expanded="true" signature="1750:1950" ph="{...}" />
-              <marker date="1522406702660" expanded="true" signature="1770:1783" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="1988:2946" ph="{...}" />
-              <marker date="1522406702660" expanded="true" signature="2137:2944" ph="{...}" />
-              <marker date="1522406702660" expanded="true" signature="2197:2939" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="2243:2933" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="2271:2316" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="2298:2305" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="2352:2925" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="2539:2701" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="2572:2685" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="2779:2888" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="2812:2825" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="2861:2872" ph="(...)" />
-              <marker date="1522406702660" expanded="true" signature="3051:3110" ph="{...}" />
-              <marker date="1522406702660" expanded="true" signature="3172:3262" ph="{...}" />
+              <marker date="1522652184740" expanded="true" signature="610:800" ph="{...}" />
+              <marker date="1522652184740" expanded="true" signature="661:798" ph="{...}" />
+              <marker date="1522652184740" expanded="true" signature="724:793" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="772:786" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="843:1126" ph="{...}" />
+              <marker date="1522652184740" expanded="true" signature="973:1124" ph="{...}" />
+              <marker date="1522652184740" expanded="true" signature="998:1119" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="1024:1065" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="1049:1056" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="1089:1112" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="1167:1566" ph="{...}" />
+              <marker date="1522652184740" expanded="true" signature="1218:1564" ph="{...}" />
+              <marker date="1522652184740" expanded="true" signature="1275:1559" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="1375:1422" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="1404:1411" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="1460:1552" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="1497:1503" ph="(...)" />
+              <marker date="1522652184740" expanded="true" signature="1528:1543" ph="(...)" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Handling_Taps.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1481">
+            <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="25" />
+            <folding>
+              <marker date="1522651664968" expanded="true" signature="1291:1481" ph="{...}" />
+              <marker date="1522651664968" expanded="true" signature="1342:1479" ph="{...}" />
+              <marker date="1522651664968" expanded="true" signature="1405:1474" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="1453:1467" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="1524:1807" ph="{...}" />
+              <marker date="1522651664968" expanded="true" signature="1654:1805" ph="{...}" />
+              <marker date="1522651664968" expanded="true" signature="1679:1800" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="1705:1746" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="1730:1737" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="1770:1793" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="1848:2486" ph="{...}" />
+              <marker date="1522651664968" expanded="true" signature="1899:2484" ph="{...}" />
+              <marker date="1522651664968" expanded="true" signature="1975:2479" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="2083:2109" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="2101:2108" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="2228:2472" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="2265:2271" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="2310:2425" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="2409:2414" ph="(...)" />
+              <marker date="1522651664968" expanded="true" signature="2450:2463" ph="(...)" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="262">
+            <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="106" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/handling_gestures/Implement_Swipe_to_Dismiss.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="234">
+            <caret line="128" column="23" lean-forward="false" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+            <folding>
+              <marker date="1522654087753" expanded="true" signature="525:533" ph="&lt;~&gt;" />
+              <marker date="1522654087753" expanded="true" signature="542:565" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="1111:1158" ph="//..." />
+              <marker date="1522654087753" expanded="true" signature="1949:2023" ph="..." />
+              <marker date="1522654087753" expanded="true" signature="2037:2132" ph="{...}" />
+              <marker date="1522654087753" expanded="true" signature="2057:2128" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="2078:2086" ph="&lt;~&gt;" />
+              <marker date="1522654087753" expanded="true" signature="2095:2123" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="2170:3265" ph="{...}" />
+              <marker date="1522654087753" expanded="true" signature="2311:3263" ph="{...}" />
+              <marker date="1522654087753" expanded="true" signature="2378:3258" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="2424:3251" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="2452:2497" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="2479:2486" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="2533:3242" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="2686:3218" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="2702:2729" ph="//..." />
+              <marker date="1522654087753" expanded="true" signature="2756:2762" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="2778:2837" ph="//..." />
+              <marker date="1522654087753" expanded="true" signature="3002:3040" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="3020:3039" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="3123:3142" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="3177:3203" ph="(...)" />
+              <marker date="1522654087753" expanded="true" signature="3193:3202" ph="(...)" />
             </folding>
           </first_editor>
           <second_editor />
