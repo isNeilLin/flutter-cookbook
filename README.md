@@ -37,7 +37,7 @@
 - [导航到新页面并返回](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/navigation/Navigate_to_a_new_screen_and_back.md)
 - [发送数据到新页面](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/navigation/Send_data_to_a_new_screen.md)
 - [从页面返回数据](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/navigation/Return_data_from_a_screen.md)
-- [在页面上动画化一个部件](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/navigation/Animating_a_Widget_across_screens.md)
+- [一个屏幕动画到另一个屏幕](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/navigation/Animating_a_Widget_across_screens.md)
 
 ## Animation 动画
 
