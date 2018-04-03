@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c07d0251-f3ab-489a-8ae8-deed77497012" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/docs/networking/Fetch_data_from_the_internet.md" afterPath="$PROJECT_DIR$/docs/networking/Fetch_data_from_the_internet.md" />
-      <change beforePath="$PROJECT_DIR$/docs/networking/Making_authenticated_requests.md" afterPath="$PROJECT_DIR$/docs/networking/Making_authenticated_requests.md" />
-      <change beforePath="$PROJECT_DIR$/docs/networking/Working_with_WebSockets.md" afterPath="$PROJECT_DIR$/docs/networking/Working_with_WebSockets.md" />
+      <change beforePath="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" afterPath="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" />
       <change beforePath="$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md" afterPath="$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,26 +15,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Reading_and_Writing_Files.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Reading_and_Writing_Files.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Storing_key-value_data_on_disk.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="40">
-                <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="2489">
+                <caret line="199" column="1" lean-forward="false" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
+                <folding>
+                  <marker date="1522749893584" expanded="true" signature="775:865" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="1059:1137" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="1111:1134" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="1291:1368" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="1474:1675" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="2245:2410" ph="..." />
+                  <marker date="1522749893584" expanded="true" signature="2424:2572" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="2455:2564" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="2526:2557" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="2595:3291" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="2635:2732" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="2770:2852" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="2826:2847" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="2888:3134" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="3183:3289" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="3334:3513" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="3566:4421" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="3616:3760" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="3803:3953" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="4004:4419" ph="{...}" />
+                  <marker date="1522749893584" expanded="true" signature="4029:4414" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="4055:4101" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="4071:4100" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="4125:4240" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="4150:4231" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="4294:4407" ph="(...)" />
+                  <marker date="1522749893584" expanded="true" signature="4387:4398" ph="(...)" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -62,7 +74,6 @@
         <option value="$PROJECT_DIR$/docs/design_basics/Working_with_Tabs.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Using_custom_fonts.md" />
         <option value="$PROJECT_DIR$/docs/design_basics/Exporting_fonts_from_a_package.md" />
-        <option value="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" />
         <option value="$PROJECT_DIR$/docs/images/Display_images_from_the_internet.md" />
         <option value="$PROJECT_DIR$/docs/images/Fade_in_images_with_a_placeholder.md" />
         <option value="$PROJECT_DIR$/docs/images/Working_with_cached_images.md" />
@@ -86,6 +97,7 @@
         <option value="$PROJECT_DIR$/docs/networking/Making_authenticated_requests.md" />
         <option value="$PROJECT_DIR$/docs/networking/Working_with_WebSockets.md" />
         <option value="$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md" />
+        <option value="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" />
       </list>
     </option>
   </component>
@@ -261,12 +273,12 @@
       <workItem from="1522400905250" duration="5689000" />
       <workItem from="1522638877661" duration="6228000" />
       <workItem from="1522657146490" duration="3424000" />
-      <workItem from="1522662522421" duration="16268000" />
+      <workItem from="1522662522421" duration="18611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60321000" />
+    <option name="totallyTimeSpent" value="62664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -895,23 +907,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md">
+    <entry file="file://$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-            <folding />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="439">
+            <caret line="159" column="26" lean-forward="true" selection-start-line="159" selection-start-column="26" selection-end-line="159" selection-end-column="26" />
+            <folding>
+              <marker date="1522748497514" expanded="true" signature="1268:1361" ph="..." />
+              <marker date="1522748497514" expanded="true" signature="1436:1753" ph="{...}" />
+              <marker date="1522748497514" expanded="true" signature="1536:1751" ph="{...}" />
+              <marker date="1522748497514" expanded="true" signature="1564:1746" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="1632:1677" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="1705:1739" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="1795:1948" ph="{...}" />
+              <marker date="1522748497514" expanded="true" signature="1999:3377" ph="{...}" />
+              <marker date="1522748497514" expanded="true" signature="2053:2101" ph="{...}" />
+              <marker date="1522748497514" expanded="true" signature="2162:2311" ph="{...}" />
+              <marker date="1522748497514" expanded="true" signature="2380:2586" ph="{...}" />
+              <marker date="1522748497514" expanded="true" signature="2637:3375" ph="{...}" />
+              <marker date="1522748497514" expanded="true" signature="2662:3370" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="2688:2736" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="2713:2727" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="2760:3126" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="2787:3117" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="2864:2872" ph="&lt;~&gt;" />
+              <marker date="1522748497514" expanded="true" signature="2894:2970" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="2992:3093" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="3180:3293" ph="(...)" />
+              <marker date="1522748497514" expanded="true" signature="3273:3284" ph="(...)" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md">
+    <entry file="file://$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="40">
-            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="2489">
+            <caret line="199" column="1" lean-forward="false" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
+            <folding>
+              <marker date="1522749893584" expanded="true" signature="775:865" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="1059:1137" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="1111:1134" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="1291:1368" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="1474:1675" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="2245:2410" ph="..." />
+              <marker date="1522749893584" expanded="true" signature="2424:2572" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="2455:2564" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="2526:2557" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="2595:3291" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="2635:2732" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="2770:2852" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="2826:2847" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="2888:3134" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="3183:3289" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="3334:3513" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="3566:4421" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="3616:3760" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="3803:3953" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="4004:4419" ph="{...}" />
+              <marker date="1522749893584" expanded="true" signature="4029:4414" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="4055:4101" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="4071:4100" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="4125:4240" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="4150:4231" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="4294:4407" ph="(...)" />
+              <marker date="1522749893584" expanded="true" signature="4387:4398" ph="(...)" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
