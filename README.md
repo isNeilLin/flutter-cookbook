@@ -46,7 +46,7 @@
 ## Networking 网络
 
 - [获取数据](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/networking/Fetch_data_from_the_internet.md)
-- [认证请求](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/networking/Making_authenticated_requests.md)
+- [授权认证](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/networking/Making_authenticated_requests.md)
 - [WebSocket](https://github.com/isNeilLin/flutter-cookbook/tree/master/docs/networking/Working_with_WebSockets.md)
 
 ## Persistence 进阶
