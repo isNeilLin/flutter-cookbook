@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c07d0251-f3ab-489a-8ae8-deed77497012" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" afterPath="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" />
-      <change beforePath="$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md" afterPath="$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +13,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Reading_and_Writing_Files.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Storing_key-value_data_on_disk.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="1661">
+                <caret line="159" column="26" lean-forward="true" selection-start-line="159" selection-start-column="26" selection-end-line="159" selection-end-column="26" />
+                <folding>
+                  <marker date="1522748497514" expanded="true" signature="1268:1361" ph="..." />
+                  <marker date="1522748497514" expanded="true" signature="1436:1753" ph="{...}" />
+                  <marker date="1522748497514" expanded="true" signature="1536:1751" ph="{...}" />
+                  <marker date="1522748497514" expanded="true" signature="1564:1746" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="1632:1677" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="1705:1739" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="1795:1948" ph="{...}" />
+                  <marker date="1522748497514" expanded="true" signature="1999:3377" ph="{...}" />
+                  <marker date="1522748497514" expanded="true" signature="2053:2101" ph="{...}" />
+                  <marker date="1522748497514" expanded="true" signature="2162:2311" ph="{...}" />
+                  <marker date="1522748497514" expanded="true" signature="2380:2586" ph="{...}" />
+                  <marker date="1522748497514" expanded="true" signature="2637:3375" ph="{...}" />
+                  <marker date="1522748497514" expanded="true" signature="2662:3370" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="2688:2736" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="2713:2727" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="2760:3126" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="2787:3117" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="2864:2872" ph="&lt;~&gt;" />
+                  <marker date="1522748497514" expanded="true" signature="2894:2970" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="2992:3093" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="3180:3293" ph="(...)" />
+                  <marker date="1522748497514" expanded="true" signature="3273:3284" ph="(...)" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reading_and_Writing_Files.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="2489">
+              <first_editor relative-caret-position="365">
                 <caret line="199" column="1" lean-forward="false" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
                 <folding>
                   <marker date="1522749893584" expanded="true" signature="775:865" ph="{...}" />
@@ -50,6 +84,19 @@
                   <marker date="1522749893584" expanded="true" signature="4294:4407" ph="(...)" />
                   <marker date="1522749893584" expanded="true" signature="4387:4398" ph="(...)" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="439">
+                <caret line="78" column="73" lean-forward="true" selection-start-line="78" selection-start-column="73" selection-end-line="78" selection-end-column="73" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -92,12 +139,12 @@
         <option value="$PROJECT_DIR$/docs/navigation/Animating_a_Widget_across_screens.md" />
         <option value="$PROJECT_DIR$/docs/animation/Fade_a_Widget_in_and_out.md" />
         <option value="$PROJECT_DIR$/docs/networking/Fetch_data_from_the_internet.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/lists/Post.java" />
         <option value="$PROJECT_DIR$/docs/networking/Making_authenticated_requests.md" />
         <option value="$PROJECT_DIR$/docs/networking/Working_with_WebSockets.md" />
         <option value="$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md" />
         <option value="$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -273,12 +320,12 @@
       <workItem from="1522400905250" duration="5689000" />
       <workItem from="1522638877661" duration="6228000" />
       <workItem from="1522657146490" duration="3424000" />
-      <workItem from="1522662522421" duration="18611000" />
+      <workItem from="1522662522421" duration="19482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62664000" />
+    <option name="totallyTimeSpent" value="63535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -827,17 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="47" column="2" lean-forward="false" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="115" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/lists/Post.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -910,7 +946,7 @@
     <entry file="file://$PROJECT_DIR$/docs/persistence/Storing_key-value_data_on_disk.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="439">
+          <first_editor relative-caret-position="1661">
             <caret line="159" column="26" lean-forward="true" selection-start-line="159" selection-start-column="26" selection-end-line="159" selection-end-column="26" />
             <folding>
               <marker date="1522748497514" expanded="true" signature="1268:1361" ph="..." />
@@ -944,7 +980,7 @@
     <entry file="file://$PROJECT_DIR$/docs/persistence/Reading_and_Writing_Files.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="2489">
+          <first_editor relative-caret-position="365">
             <caret line="199" column="1" lean-forward="false" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
             <folding>
               <marker date="1522749893584" expanded="true" signature="775:865" ph="{...}" />
@@ -975,6 +1011,17 @@
               <marker date="1522749893584" expanded="true" signature="4294:4407" ph="(...)" />
               <marker date="1522749893584" expanded="true" signature="4387:4398" ph="(...)" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="439">
+            <caret line="78" column="73" lean-forward="true" selection-start-line="78" selection-start-column="73" selection-end-line="78" selection-end-column="73" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
