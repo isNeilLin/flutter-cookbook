@@ -21,6 +21,14 @@ new MaterialApp(
 )
 ```
 
+```go
+import "fmt"
+func main(){
+  fmt.Println("test")
+}
+```
+
+
 请参阅[ThemeData](https://docs.flutter.io/flutter/material/ThemeData-class.html)文档，查看所有可供定义的颜色和字体样式。
 
 ## 应用程序特定部分的主题
