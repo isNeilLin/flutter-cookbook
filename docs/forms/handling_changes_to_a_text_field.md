@@ -30,8 +30,11 @@ TextField(
 ### 步骤
 
 1、 创建一个`TextEditingController`
+
 2、 将`TextEditingController`应用到一个`TextField`中
+
 3、 创建一个方法来打印文本字段的值
+
 4、 侦听控制器(controller)的更改
 
 ### 1. 创建一个`TextEditingController`

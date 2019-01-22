@@ -9,7 +9,9 @@
 ## 步骤
 
 1、 创建一个带有`GlobalKey`的`Form`
+
 2、 添加一个有验证逻辑的`TextFormField`
+
 3、 在表单中添加一个验证和提交表单的按钮
 
 ## 1. 创建一个带有`GlobalKey`的`Form`

@@ -7,6 +7,7 @@
 ## 步骤
 
 1、 构建一个两列的GridView
+
 2、 使用`OrientationBuilder`改变列数
 
 ## 1. 构建一个两列的GridView
